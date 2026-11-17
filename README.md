@@ -1,4 +1,4 @@
-# llamanotes-ai
+# CraftCode Inc.
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,90 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-llamanotes-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://llamanotes.ai/
+CraftCode Inc. operates the SkillSend platform, an online learning service that offers interactive, simulation‑based courses across a wide range of professional and personal development topics. Users can enroll in courses such as Data Analytics, Public Speaking, Leadership Essentials, Microsoft Azure fundamentals, AI Workflows, and language practice. The platform provides micro‑lessons, quizzes, and hands‑on simulations to help learners acquire and demonstrate skills, with support for teams and educators. It emphasizes practical, real‑world application through live simulations and offers a tutoring service for personalized guidance. The service is positioned as a modern e‑learning solution integrating AI‑driven workflows and skill verification.
+
+**Areas:** Education · E-learning · Skill Development · AI · Online Courses
+
+## CraftCode Inc. on APIs.io
+
+Everything profiled for CraftCode Inc. is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/llamanotes-ai/](https://apis.io/providers/llamanotes-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [SkillSend API](https://apis.io/apis/llamanotes-ai/skillsend-api/) — SkillSend platform API providing access to courses, enrollments, and tutoring services.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [CraftCode Inc. Domain Security](https://apis.io/security/llamanotes-ai/llamanotes-ai-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://llamanotes.ai/)
+- [Pricing](https://llamanotes.ai/pricing)
+- [Sign up](https://llamanotes.ai/sign-up)
+- [Terms of service](https://llamanotes.ai/terms)
+- [Privacy policy](https://llamanotes.ai/privacy)
+
+## API Evangelist rating
+
+**Kin Score 11.3** — emerging · rubric 0.28.0 · scored 2026-11-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 36.2 |
+
+**Agent readiness 3.1** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 7.3** — Education & Research
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/llamanotes-ai/](https://apis.io/providers/llamanotes-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for CraftCode Inc.: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/llamanotes-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
